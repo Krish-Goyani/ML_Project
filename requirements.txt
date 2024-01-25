@@ -1,0 +1,16 @@
+pandas
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML
+ensure==1.0.2
+joblib
+types-pyYAML
+Flask
+Flask-Core
+
+
+# we can't use/import file and methods from one file to another because only package can be imported to make all files local packages we will use setup.py setup.py make all file into local package and -e . figure out setup.py file and install it.
+-e .
