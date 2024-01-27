@@ -1,3 +1,4 @@
+#schema.yaml is used to validate that all the required columns are present in our dataset or not.
 COLUMNS:
   fixed acidity: float64
   volatile acidity: float64
