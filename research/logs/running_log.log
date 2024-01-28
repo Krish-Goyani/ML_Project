@@ -1,8 +1,0 @@
-[2024-01-27 12:02:54,666: INFO: common: yaml file: config\config.yaml loaded successfully]
-[2024-01-27 12:02:54,668: INFO: common: yaml file: params.yaml loaded successfully]
-[2024-01-27 12:02:54,680: INFO: common: yaml file: schema.yaml loaded successfully]
-[2024-01-27 12:02:54,681: INFO: common: created directory at: artifacts]
-[2024-01-27 12:08:16,936: INFO: common: yaml file: config\config.yaml loaded successfully]
-[2024-01-27 12:08:16,943: INFO: common: yaml file: params.yaml loaded successfully]
-[2024-01-27 12:08:16,946: INFO: common: yaml file: schema.yaml loaded successfully]
-[2024-01-27 12:08:16,950: INFO: common: created directory at: artifacts]
